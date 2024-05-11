@@ -1,0 +1,1 @@
+- 👋 Hi, this is my repository for React development. It will be used as a place for potential employers to check out my code.
